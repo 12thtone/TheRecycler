@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/maher/Desktop/android/TheRecycler/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/maher/Desktop/android/TheRecycler/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_e37bdf0dbebff2bd6f0dbe9006db4cbfed6c6145/classes.dex" />
+    </item>
+    <item
+        jar="/Users/maher/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/maher/Desktop/android/TheRecycler/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_46f6229e7c3e4995b697b0e89129fcd3a44e1f64/classes.dex" />
+    </item>
+    <item
+        jar="/Users/maher/Desktop/android/TheRecycler/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/maher/Desktop/android/TheRecycler/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0_2d4c9d0952702df0f09bd73758255f83472e4289/classes.dex" />
+    </item>
+    <item
+        jar="/Users/maher/Desktop/android/TheRecycler/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e76dad6f7a1eab9981944e9c8315f1a0d20ba833">
+        <dex dex="/Users/maher/Desktop/android/TheRecycler/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a36537194a4357c86026091baaa11375a9d204e0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/maher/Desktop/android/TheRecycler/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/maher/Desktop/android/TheRecycler/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_8852080bccf63e31a8e3850f34e1e01a1129325c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/maher/Desktop/android/TheRecycler/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/maher/Desktop/android/TheRecycler/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_79f260a3f43d0a30b3a11748aa332b7838150d79/classes.dex" />
+    </item>
+    <item
+        jar="/Users/maher/Desktop/android/TheRecycler/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/maher/Desktop/android/TheRecycler/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_8daadcfd408b75519a33c3dfbe8cb240decdcedf/classes.dex" />
+    </item>
+    <item
+        jar="/Users/maher/Desktop/android/TheRecycler/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="339b090f87e2d7cc1f370f0eff508fb2ef46cd59">
+        <dex dex="/Users/maher/Desktop/android/TheRecycler/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4d6b446049814b2aca1a5c23b3939065b2a41f1b/classes.dex" />
+    </item>
+
+</items>
