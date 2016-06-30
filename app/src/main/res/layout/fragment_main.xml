@@ -13,6 +13,72 @@
             android:layout_height="match_parent"
             android:orientation="vertical">
 
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#666666"
+                android:textSize="25dp"
+                android:text="It&apos;s Friday Evening"
+                android:paddingTop="12dp"
+                android:paddingLeft="12dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#a4a4a4"
+                android:textSize="18dp"
+                android:text="Play Something For..."
+                android:paddingLeft="12dp" />
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/container_top_row"></FrameLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#666666"
+                android:textSize="25dp"
+                android:text="It&apos;s Friday Evening"
+                android:paddingTop="12dp"
+                android:paddingLeft="12dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#a4a4a4"
+                android:textSize="18dp"
+                android:text="Play Something For..."
+                android:paddingLeft="12dp" />
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/container_middle_row"></FrameLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#666666"
+                android:textSize="25dp"
+                android:text="It&apos;s Friday Evening"
+                android:paddingTop="12dp"
+                android:paddingLeft="12dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#a4a4a4"
+                android:textSize="18dp"
+                android:text="Play Something For..."
+                android:paddingLeft="12dp" />
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/container_bottom_row"></FrameLayout>
+
         </LinearLayout>
 
     </android.support.v4.widget.NestedScrollView>
