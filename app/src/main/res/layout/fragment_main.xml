@@ -28,7 +28,8 @@
                 android:textColor="#a4a4a4"
                 android:textSize="18dp"
                 android:text="Play Something For..."
-                android:paddingLeft="12dp" />
+                android:paddingLeft="12dp"
+                android:paddingBottom="10dp"/>
 
             <FrameLayout
                 android:layout_width="match_parent"
@@ -50,7 +51,8 @@
                 android:textColor="#a4a4a4"
                 android:textSize="18dp"
                 android:text="Play Something For..."
-                android:paddingLeft="12dp" />
+                android:paddingLeft="12dp"
+                android:paddingBottom="10dp"/>
 
             <FrameLayout
                 android:layout_width="match_parent"
@@ -72,6 +74,7 @@
                 android:textColor="#a4a4a4"
                 android:textSize="18dp"
                 android:text="Play Something For..."
+                android:paddingBottom="10dp"
                 android:paddingLeft="12dp" />
 
             <FrameLayout

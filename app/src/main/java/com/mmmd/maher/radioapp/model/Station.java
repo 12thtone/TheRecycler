@@ -16,11 +16,13 @@ public class Station {
 
 
     public String getStationTitle() {
+
         return stationTitle;
     }
 
     public String getImgUri() {
-        return imgUri;
+
+        return DRAWABLE + imgUri;
     }
 
 }
